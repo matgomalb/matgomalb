@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on: [OLX Brasil](https://www.olx.com.br)
 - 📫 How to reach me: matgomalb@gmail.com
-- 💻📝 Studying on: Computer Science [Universidade São Judas Tadeu (USJT)](https://www.usjt.br)
+- 💻📝 Graduated on: Computer Science [Universidade São Judas Tadeu (USJT)](https://www.usjt.br) 2019-2022
 
 ## Technologies and Knowledge
 <p>
